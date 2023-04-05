@@ -1,4 +1,10 @@
-
+void () {
+s.o.p("hello")
+s.o.p("hello")
+s.o.p("hello")
+s.o.p("hello")
+s.o.p("hello")
+}
  i am learning aws 
 
 i am going to learn devops
